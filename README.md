@@ -1,3 +1,8 @@
+---
+layout: base
+title: Feedly No Img Web
+---
+
 ### Feedly No Img
 
 Cuando leemos las noticias en Feedly, muchas veces queremos solo texto.
