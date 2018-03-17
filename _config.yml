@@ -6,6 +6,7 @@ repository: https://github.com/SidVal/feedly-no-img
 timezone: America/Argentina/Buenos_Aires
 logo: "/assets/feedly-no-img.png"
 theme: jekyll-theme-time-machine
+show_downloads: false
 plugins:
 - jekyll-avatar
 - jekyll-feed
