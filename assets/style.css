@@ -250,7 +250,7 @@ p.tagline{
 }
 .download-bar a.code{
     background:transparent url(../assets/images/code.png) no-repeat 0 2px;
-    padding-left:35px;
+    padding-left:45px;
     margin-top:8px;
     display:block;
     float:left;
