@@ -13,10 +13,16 @@ title: Feedly No Img Web
 
 >Ps: if you want to reset the images, just press "F5" to refresh the site. Now the images shows up again.
 
-### Button in Chrome for Feedly
+### Drag This to Bookmarks Bar
 <div class="box">
   <strong><a href="javascript:void%20function(e){var%20t=function(e){!function(e,t,n,a,o,r,c){c=e.createElement(t),r=e.getElementsByTagName(o)[0],c.href=n,c.rel=a,r.insertAdjacentElement(%22beforeend%22,c)}(document,%22link%22,%22https://cdn.rawgit.com/SidVal/SidV/master/assets/feedly-no-img.css%22,%22stylesheet%22,%22head%22),function(){var%20e=document.querySelector(%22link[rel*='icon']%22)||document.createElement(%22link%22);e.type=%22image/x-icon%22,e.rel=%22shortcut%20icon%22,e.href=%22https://raw.githubusercontent.com/SidVal/SidV/master/assets/feedly-no-img.png%22,document.getElementsByTagName(%22head%22)[0].appendChild(e)}(),clear()},n=e%26%26e.fn%26%26parseFloat(e.fn.jquery)%3E=1.7;if(n)t(e);else{var%20a=document.createElement(%22script%22);a.src=%22//ajax.googleapis.com/ajax/libs/jquery/1/jquery.js%22,a.onload=a.onreadystatechange=function(){var%20e=this.readyState;e%26%26%22loaded%22!==e%26%26%22complete%22!==e||t(jQuery.noConflict())}}document.getElementsByTagName(%22head%22)[0].appendChild(a)}(window.jQuery);">Feedly No Img</a></strong>
   </div>
+
+<br />
+
+***
+
+<br />
 
 ## Feedly No Img (The Idea)
 
