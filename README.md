@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+### Feedly No Img
 
-You can use the [editor on GitHub](https://github.com/SidVal/feedly-no-img/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Cuando leemos las noticias en Feedly, muchas veces queremos solo texto.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+He probado muchas extensiones en Chrome.
+Pero me cansaron, además de que (nos guste o no), traen problemas de rendimiento en el programa.
+Muchas extensiones hacen algo más que ocultar imagenes, algunas ponen publicidad, pop-ups, etcétera.
+Otra que "funcionaba", también me ocultaba botones, e imágenes que sí son necesarios para la lectura de Feedly., así que no sirven para los fines que buscaba.
 
-### Markdown
+Así que aquí tengo la solución para Chrome
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Botón Feedly No Img
 
-```markdown
-Syntax highlighted code block
+Ver index.html para utilizar en Chrome.
 
-# Header 1
-## Header 2
-### Header 3
+### Pendientes
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SidVal/feedly-no-img/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
++ Probar en Firefox
++ Crear imagenes tipo tutorial que expliquen cómo funciona
++ ...
