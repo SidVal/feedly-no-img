@@ -15,7 +15,14 @@ title: Feedly No Img Web
 
 ### Drag This to Bookmarks Bar
 <div class="box">
-  <strong><a href="javascript:void%20function($){var%20loadBookmarklet=function($){(function(i,n,j,e,c,t,css){css=i.createElement(n),t=i.getElementsByTagName(c)[0],css.href=j,css.rel=e,t.insertAdjacentElement(%22beforeend%22,css)})(document,%22link%22,%22https://cdn.rawgit.com/SidVal/SidV/master/assets/feedly-no-img.css%22,%22stylesheet%22,%22head%22),function(){var%20link=document.querySelector(%22link[rel*='icon']%22)||document.createElement(%22link%22);link.type=%22image/x-icon%22,link.rel=%22shortcut%20icon%22,link.href=%22https://raw.githubusercontent.com/SidVal/SidV/master/assets/feedly-no-img.png%22,document.getElementsByTagName(%22head%22)[0].appendChild(link)}(),clear()},hasJQuery=$%26%26$.fn%26%26parseFloat($.fn.jquery)%3E=1.7;if(hasJQuery)loadBookmarklet($);else{var%20s=document.createElement(%22script%22);s.src=%22//ajax.googleapis.com/ajax/libs/jquery/1/jquery.js%22,s.onload=s.onreadystatechange=function(){var%20state=this.readyState;state%26%26%22loaded%22!==state%26%26%22complete%22!==state||loadBookmarklet(jQuery.noConflict())}}document.getElementsByTagName(%22head%22)[0].appendChild(s)}(window.jQuery);">Feedly No Img</a></strong>
+  <strong><a href="javascript:!(function(i,n,j,e,c,t,css){ css=i.createElement(n);t=i.getElementsByTagName(c)[0];css.href=j;css.rel=e; t.insertAdjacentElement('beforeend',css);}) (document,'link','https://cdn.rawgit.com/SidVal/SidV/master/assets/feedly-no-img.css','stylesheet','head');
+(function() {
+    var link = document.querySelector("link[rel*='icon']") || document.createElement('link');
+    link.type = 'image/x-icon';
+    link.rel = 'shortcut icon';
+    link.href = 'https://raw.githubusercontent.com/SidVal/SidV/master/assets/feedly-no-img.png';
+    document.getElementsByTagName('head')[0].appendChild(link);
+})();alert("Feedly 'No Img' ON - Press F5 if you want to turn off.");clear();">Feedly No Img</a></strong>
   </div>
 
 <br />
@@ -52,7 +59,14 @@ Así que aquí tengo la solución para Chrome
 
 ## Arrastra este enlace a tus favoritos
 <div class="box">
-  <strong><a href="javascript:void%20function($){var%20loadBookmarklet=function($){(function(i,n,j,e,c,t,css){css=i.createElement(n),t=i.getElementsByTagName(c)[0],css.href=j,css.rel=e,t.insertAdjacentElement(%22beforeend%22,css)})(document,%22link%22,%22https://cdn.rawgit.com/SidVal/SidV/master/assets/feedly-no-img.css%22,%22stylesheet%22,%22head%22),function(){var%20link=document.querySelector(%22link[rel*='icon']%22)||document.createElement(%22link%22);link.type=%22image/x-icon%22,link.rel=%22shortcut%20icon%22,link.href=%22https://raw.githubusercontent.com/SidVal/SidV/master/assets/feedly-no-img.png%22,document.getElementsByTagName(%22head%22)[0].appendChild(link)}(),clear()},hasJQuery=$%26%26$.fn%26%26parseFloat($.fn.jquery)%3E=1.7;if(hasJQuery)loadBookmarklet($);else{var%20s=document.createElement(%22script%22);s.src=%22//ajax.googleapis.com/ajax/libs/jquery/1/jquery.js%22,s.onload=s.onreadystatechange=function(){var%20state=this.readyState;state%26%26%22loaded%22!==state%26%26%22complete%22!==state||loadBookmarklet(jQuery.noConflict())}}document.getElementsByTagName(%22head%22)[0].appendChild(s)}(window.jQuery);">Feedly No Img</a></strong>
+  <strong><a href="javascript:!(function(i,n,j,e,c,t,css){ css=i.createElement(n);t=i.getElementsByTagName(c)[0];css.href=j;css.rel=e; t.insertAdjacentElement('beforeend',css);}) (document,'link','https://cdn.rawgit.com/SidVal/SidV/master/assets/feedly-no-img.css','stylesheet','head');
+(function() {
+    var link = document.querySelector("link[rel*='icon']") || document.createElement('link');
+    link.type = 'image/x-icon';
+    link.rel = 'shortcut icon';
+    link.href = 'https://raw.githubusercontent.com/SidVal/SidV/master/assets/feedly-no-img.png';
+    document.getElementsByTagName('head')[0].appendChild(link);
+})();alert("Feedly 'No Img' ON - Press F5 if you want to turn off.");clear();">Feedly No Img</a></strong>
   </div>
 
 ***
