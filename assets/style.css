@@ -610,6 +610,7 @@ footer .owner p a{
 }
 .box {
 	text-transform:capitalize;
+	background-color:#b4efae;
 	text-decoration:none;
 	margin:0 0 60px 30px;
 	width:25%;
