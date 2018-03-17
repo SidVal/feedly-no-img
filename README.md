@@ -15,6 +15,7 @@ Ver index.html para utilizar en Chrome.
 
 ### Pendientes
 
++ Mejorar página web 
 + Probar en Firefox
 + Crear imagenes tipo tutorial que expliquen cómo funciona
 + ...
