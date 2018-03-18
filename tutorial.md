@@ -8,3 +8,6 @@ canonical: https://sidval.github.io/feedly-no-img/tutorial
 ## How to use Feedly-No-Img
 
 ![How to use Feedly-No-Img](https://raw.githubusercontent.com/SidVal/feedly-no-img/master/assets/feedly-no-img.gif)
+
+### [Feedly No IMG](https://sidval.github.io/feedly-no-img/)
+Use it & Share it
