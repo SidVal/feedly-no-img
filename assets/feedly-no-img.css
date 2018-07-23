@@ -1,2 +1,2 @@
-img, video, iframe {display:none !important;}
-.lightbox{z-index: -1 !important;}
+img, video, iframe {display: none !important;}
+.lightbox, .thumbBlock {z-index: -1 !important;}
