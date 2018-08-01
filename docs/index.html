@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Feedly without distractions</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta charset="utf-8">
+    <meta name="description" content="Just hide ads">
+    <meta name="keywords" content="ads, hiding, css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">    
+    <link rel="shortcut icon" type="image/png" href="/feedly-no-img/docs/assets/feedly-no-img.png">
+</head>
+<body>
+<div class="container">
+    <h1>Feedly <small class="text-muted">Freedom</small></h1>
+    
+    <div class="alert alert-danger" role="alert">
+        The next button is NOT a link. <strong>PLEASE READ THIS:</strong> dont' click it right now <em>(here at this page)</em>. <br>
+        You must DRAG the button (link) and DROP to your Bookmark's Bar
+    </div>
+<div class="row">
+ <div class="col-12 col-sm-4">
+ <div class="card text-center">
+ <div class="card-header">
+    Drag &amp; Drop to your Bookmark's Bar
+  </div>
+  <div class="card-body">
+    <a class="btn btn-lg btn-outline-success" href="javascript:(function()%7B(function(i%2Cn%2Cj%2Ce%2Cc%2Ct%2Ccss)%7B%20css%3Di.createElement(n)%3Bt%3Di.getElementsByTagName(c)%5B0%5D%3Bcss.href%3Dj%3Bcss.rel%3De%3B%20t.insertAdjacentElement('beforeend'%2Ccss)%3B%7D)%20(document%2C'link'%2C'https%3A%2F%2Fcdn.rawgit.com%2FSidVal%2Ffeedly-no-img%2Fmaster%2Fassets%2Ffeedly-no-img.css'%2C'stylesheet'%2C'head')%3B%20(function()%20%7B%20var%20link%20%3D%20document.querySelector(%22link%5Brel*%3D'icon'%5D%22)%20%7C%7C%20document.createElement('link')%3B%20link.type%20%3D%20'image%2Fx-icon'%3B%20link.rel%20%3D%20'shortcut%20icon'%3B%20link.href%20%3D%20'https%3A%2F%2Fraw.githubusercontent.com%2FSidVal%2Ffeedly-no-img%2Fmaster%2Fassets%2Ffeedly-no-img.png'%3B%20document.getElementsByTagName('head')%5B0%5D.appendChild(link)%3B%20%7D)()%3Balert(%22Feedly%20'No%20Img'%20ON%20-%20Press%20F5%20if%20you%20want%20to%20turn%20off.%22)%3Bconsole.clear()%7D)()">Feedly-F!</a>
+  </div>
+</div>
+    </div>
+    
+    <div class="col-12 col-sm-8">
+    <div class="card"><div class="card-body">
+    <h3 class="card-title" id="how-to-use-it">How to use it</h3>
+        <p class="card-text">
+        <ul>
+        <li>Drag the link into your Bookmarks Bar</li>
+        <li>Go to <em>Feedly.com</em> and enjoy reading some feed</li>
+        <li>Check your favorite blog with some content (shows images by default)</li>
+        <li>Clic your bookmark’s link created in point 1.</li>
+        <li>Whalla! No more images, or ads or media, it’s all gone!</li>
+            <li><em>Oops!</em> If you found some bug, <a href="https://github.com/SidVal/feedly-no-img/issues/new?labels=comments&milestone=1&assignee=SidVal" title="Report a bug" class="badge badge-light">please report it now!</a></li>
+        </ul>
+        </p>
+        <div class="card-footer text-muted">
+        
+        
+        <p class="mb-0">Ps:  if you want to reset your <em>feedly</em>, just press <kbd>F5</kbd> to refresh the site.</p>
+        </div>
+    </div></div> <!--card:card-body-->
+    </div>
+</div> <!--row-->
+    <div class="clearfix"><br></div>
+<div class="card">
+  <div class="card-body">
+      
+    <h3>How its works</h3>
+    
+    <p>When you press the button to "Feedly-F!", you are calling <a href="https://github.com/SidVal/hide-ads/blob/master/style.css" target="_new" title="CSS file Feedly-F!">this style (css file)</a>, which simply "hides" from your web browser all the annoying elements that <em>feedly</em> shows each time we are reading content.</p>
+
+    <h3>Testing and debugging</h3>
+<p>If you find an error, or want to help, or know more about this idea, you can go to the <a class="badge badge-info" href="https://github.com/SidVal/feedly-no-img" title="Feedly-no-img Github repository">feedly-no-img Github repository</a>.</p>
+    
+    </div>
+    </div></div>
+    <div class="clearfix"><br></div>
+    </body>
+</html>

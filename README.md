@@ -1,5 +1,6 @@
 # feedly-no-img
-Bookmarklet button for Feedly without images! 
+
+Bookmarklet button for Feedly without images!
 
 ## [Click here for more information](https://sidval.github.io/feedly-no-img/)
 
@@ -11,3 +12,4 @@ Bookmarklet button for Feedly without images!
 * 22/03/18: [Feedly-no-img v2](https://github.com/SidVal/feedly-no-img/commit/0eb815833aed5d4b59eef917f427b8899fc60c3b)
 * 16/04/18: [Feedly-no-img v3](https://github.com/SidVal/feedly-no-img/commit/7e1dabc70362b25d3489d47e8adbd9c405c908d9)
 * 23/07/18: [Feedly-no-img v4](https://github.com/SidVal/feedly-no-img/commit/0f2857c13f3f72e69f5c171a860e7561ea1583fa)
+* 31/07/18: [Mejoras](https://github.com/SidVal/feedly-no-img/issues/2)
